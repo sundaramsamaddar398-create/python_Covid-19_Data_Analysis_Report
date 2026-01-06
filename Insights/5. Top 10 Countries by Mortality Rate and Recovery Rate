@@ -1,0 +1,4 @@
+##### Insight:
+This visualization compares the top 10 countries by COVID-19 mortality rate and recovery rate, using a filtered dataset that includes only countries with at least 100,000 confirmed cases to ensure reliable rate comparisons. Countries such as Peru and Mexico exhibit notably higher mortality rates, indicating a greater proportion of deaths among confirmed cases, while countries like Colombia, Kyrgyzstan, and the UAE show higher recovery rates, suggesting more favorable clinical outcomes or reporting practices.
+
+It is important to note that global recovery data was not updated after August 2021, which may lead to inflated mortality rates or underestimated recovery rates for some countries in the later period. As a result, these recovery-related comparisons should be interpreted with caution, especially when contrasting countries affected by later waves of the pandemic.
