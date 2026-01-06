@@ -1,0 +1,4 @@
+##### Insight:
+This stacked area chart shows how global COVID-19 cases are distributed among active, recovered, and death categories over time. From early 2020 through mid-2021, recoveries make up a substantial and growing share of total cases, indicating that most infections were eventually resolved. Deaths remain a relatively small but steadily increasing component throughout the period.
+
+A notable discontinuity appears around August 2021: the recovered segment abruptly stops growing, while active cases surge sharply. This shift is not epidemiological, but driven by missing global recovery data from 2021-08 onward. Because recoveries are no longer updated, new confirmed cases after this point are largely classified as active, inflating the active-case area and distorting the true case composition.
