@@ -1,0 +1,4 @@
+##### Insight:
+The scatter plot of Confirmed Cases vs Deaths shows a strong positive relationship countries with higher confirmed case counts consistently report higher cumulative deaths. The curved and layered patterns reflect different national trajectories over time, influenced by factors such as population size, healthcare capacity, and the timing of pandemic waves.
+
+In the Confirmed Cases vs Recovered plot, a similar positive relationship is visible for the period where recovery data is available, indicating that higher case counts were generally accompanied by higher recoveries. However, this relationship becomes distorted at higher confirmed case values because global recovery data was not consistently updated after August 2021. As a result, many later data points cluster near zero recoveries despite rising confirmed cases, which reflects reporting gaps rather than actual recovery trends.
