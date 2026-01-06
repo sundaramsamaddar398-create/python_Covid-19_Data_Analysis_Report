@@ -1,0 +1,4 @@
+##### Insight:
+The scatter plot indicates a weak-to-moderate positive relationship between new deaths and new recovies periods with higher deaths often coincide with higher recoveries, reflecting intense waves where overall case volumes were high and both outcomes increased simultaneously. However, the data is heavily clustered near zero, showing that most days experienced relatively low deaths and recoveries, with a few extreme outliers during peak waves.
+
+It is important to note that global recovery data was not consistently updated after August 2021. This leads to many near-zero recovery values in the later period, which dampens the apparent correlation and may understate recovery counts relative to deaths. Therefore, correlation patterns observed after 2021-08 should be interpreted cautiously, as they are influenced by missing or incomplete recovery reporting rather than true epidemiological trends.
