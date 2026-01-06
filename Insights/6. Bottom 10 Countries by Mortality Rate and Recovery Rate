@@ -1,0 +1,4 @@
+##### Insight:
+This visualization presents the bottom 10 countries by COVID-19 mortality rate and recovery rate, calculated using a filtered dataset that includes only countries with 100,000 or more confirmed cases to avoid distortions from very small case counts. Countries such as Iceland and New Zealand exhibit the lowest mortality rates, reflecting effective containment measures and healthcare responses, while countries like Sweden and the United Kingdom appear among the lowest recovery rates.
+
+It is important to note that recovery data was not updated after August 2021, which may result in artificially lower recovery rates for several countries in the later stages of the pandemic. Consequently, recovery-rate comparisons—especially for countries affected by post-2021 waves should be interpreted with caution.
